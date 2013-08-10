@@ -1,0 +1,7 @@
+Pcf	KEYWORD1
+togglePin	KEYWORD2
+writePin	KEYWORD2
+readPin	KEYWORD2
+writeData	KEYWORD2
+readData	KEYWORD2
+clearData	KEYWORD2
